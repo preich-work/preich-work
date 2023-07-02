@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preich-work
 - 👀 I’m interested in learning to build web sites. 
-- 🌱 I’m currently learning how to become a Web Developer.
+- 🌱 I’m currently learning how to become a Web Developer. I know HTML5.
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me email me at preich_work@yahoo.com
 
