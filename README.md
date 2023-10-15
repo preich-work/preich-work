@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @preich-work
-- 👀 I’m interested in learning to build web sites. 
-- 🌱 I’m currently learning how to become a Web Developer. I know HTML5.
+- 👀 I’m interested in using my tech skills to help others. 
+- 🌱 I'm a Web Developer and love to practice my skills. 
 - 💞️ I’m looking to collaborate on Websites
-- 📫 How to reach me email me at preich_work@yahoo.com
+- 📫 You can reach via email at preich_work@yahoo.com
 
 <!---
 preich-work/preich-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
