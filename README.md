@@ -2,7 +2,7 @@
 - 👀 I’m interested in using my tech skills to help others. 
 - 🌱 I'm a Web Developer and love to practice my skills. 
 - 💞️ I’m looking to collaborate on Websites
-- 📫 You can reach via email at preich_work@yahoo.com
+- 📫 You can reach via email at patricia.reich.work@gmail.com
 
 <!---
 preich-work/preich-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
